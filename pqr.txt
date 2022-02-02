@@ -1,3 +1,0 @@
-mkdir a
-mkdir a\b
-mkdir a\b\c
